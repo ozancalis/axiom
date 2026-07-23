@@ -141,13 +141,13 @@ belirli bir sürede değil,
 ```
 axiom/
 
-├── README.md
-├── PROJECT_CHARTER.md
-├── UNIVERSITY_DESIGN_DOCUMENT.md
-├── ROADMAP.md
-├── LIBRARY.md
-├── CHANGELOG.md
-├── VERSION.md
+├── README.md                      ⭐ Başlangıç
+├── PROJECT_CHARTER.md             ⭐ Neden var?
+├── UNIVERSITY_DESIGN_DOCUMENT.md  ⭐ Anayasa
+├── ROADMAP.md                     ⭐ Nereye gidiyoruz?
+├── LIBRARY.md                     ⭐ Kaynaklar
+├── CHANGELOG.md                   ⭐ Değişiklikler
+├── VERSION.md                     ⭐ Sürüm
 │
 ├── docs/
 ├── faculties/
