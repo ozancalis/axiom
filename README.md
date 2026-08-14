@@ -3,8 +3,8 @@
 title: Axiom
 version: 0.1.0
 status: Active
-created: 2026-08-10
-last_updated: 2026-08-10
+created: 2026-08-14
+last_updated: 2026-08-14
 ------------------------
 
 # Axiom
